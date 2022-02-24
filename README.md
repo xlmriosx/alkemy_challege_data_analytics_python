@@ -16,4 +16,13 @@ For each file `.csv` we taking relevant columns from .csv with library pandas, d
 
 # Instructions
 
+## Requirements
+This program it's easily to run, don't need download nothing, only having python on your system you can run it.
 
+## Steps
+1. Open the file `main.py`.
+2. Run it.
+
+## Note
+
+In the next commit we will upload the program with a configuration on which you can modify data bases manager(PostgreSQL).
