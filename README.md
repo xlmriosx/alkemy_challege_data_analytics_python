@@ -14,7 +14,7 @@ For each file `.csv` we taking relevant columns from .csv with library pandas, d
 #### IDE: 
 ![PyCharm](https://img.shields.io/badge/PyCharm-66CDAA?style=for-the-badge&logo=PyCharm&logoColor=white)
 
-# Instructions
+# About program
 
 ## Requirements
 This program it's easily to run, don't need download nothing, only having python on your system you can run it.
